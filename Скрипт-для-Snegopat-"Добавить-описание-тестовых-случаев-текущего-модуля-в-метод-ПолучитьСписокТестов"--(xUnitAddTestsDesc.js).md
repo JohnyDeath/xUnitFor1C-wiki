@@ -55,4 +55,4 @@ Cейчас не нужно после написания определения
 <b>Ссылки</b>:
 * [История версий](https://snegopat.ru/scripts/finfo?name=xUnitAddTestsDesc.js)
 
-* [Обсуждение на форуме Снегопата](https://snegopat.ru/forum/viewforum.php?f=3)
+* [Обсуждение на форуме Снегопата](https://snegopat.ru/forum/viewtopic.php?f=3&t=607)
