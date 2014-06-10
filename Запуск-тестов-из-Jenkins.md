@@ -4,7 +4,10 @@
 ```
 chcp 1251
 
-"C:\Program Files\1cv82\8.2.15.319\bin\1cv8.exe" ENTERPRISE /F"%WORKSPACE%\ibService" /Nadmin /P1 /C "Тесты_Команда_Тестировать;%WORKSPACE%/Tests;ЗавершитьРаботуПослеТестирования;Тесты_Команда_ФорматОтчета;xml;Тесты_Команда_КаталогОтчетов;%WORKSPACE%/testReport;" /Execute "%WORKSPACE%\build\1Cunit2\UnitTestRunner.epf"
+"C:\Program Files\1cv82\8.2.15.319\bin\1cv8.exe" ENTERPRISE /F"%WORKSPACE%\ibService" 
+/Nadmin /P1 /C "Тесты_Команда_Тестировать;%WORKSPACE%/Tests;ЗавершитьРаботуПослеТестирования;
+Тесты_Команда_ФорматОтчета;xml;Тесты_Команда_КаталогОтчетов;%WORKSPACE%/testReport;" 
+/Execute "%WORKSPACE%\build\1Cunit2\UnitTestRunner.epf"
 ```
 
 ## За запуск отвечают такие параметры: 
