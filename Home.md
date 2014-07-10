@@ -8,7 +8,7 @@ xUnitFor1C работает с любыми конфигурациями, пол
 
 Любые наборы тестов могут прогоняться в полностью автоматическом режиме через специальную командную строку запуска. Автозапуск используется в различных билд-серверах.
 
-[Использование xUnitFor1C](https://github.com/xDrivenDevelopment/xUnitFor1C/wiki/%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-1CUnit)
+[Использование xUnitFor1C](https://github.com/xDrivenDevelopment/xUnitFor1C/wiki/%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-xUnitFor1C)
 
 [Создание файлов-тестов](https://github.com/xDrivenDevelopment/xUnitFor1C/wiki/%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2)
 
