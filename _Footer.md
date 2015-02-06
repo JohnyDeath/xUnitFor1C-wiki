@@ -1,1 +1,0 @@
-[Форум обсуждения проекта](http://xdd.silverbulleters.org/t/xdrivendevelopment-razvitie-i-obsuzhdenie/)
