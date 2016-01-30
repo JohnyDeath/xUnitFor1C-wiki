@@ -7,14 +7,16 @@ chcp 1251
 "C:\Program Files (x86)\1cv8\8.3.7.1845\bin\1cv8.exe" /DisableStartupMessages 
 /Execute "%teamcity.build.checkoutDir%\xddTestRunner.epf" /F "tempdb" /N "Admin" /P1 
 /C "xddRun ЗагрузчикКаталога ""%teamcity.build.checkoutDir%\Tests"";
-xddReport ГенераторОтчетаJUnitXML ""%teamcity.build.checkoutDir%\report_ordinary.xml"";xddShutdown;"
+xddReport ГенераторОтчетаJUnitXML ""%teamcity.build.checkoutDir%\report_ordinary.xml"";
+xddShutdown;"
 ```
 
 Для запуска из jenkins можно использовать такую команду 
 ```
 chcp 1251
 
-"C:\Program Files (x86)\1cv8\8.3.7.1845\bin\1cv8.exe" ENTERPRISE /F"%WORKSPACE%\testib" /DisableStartupMessages 
+"C:\Program Files (x86)\1cv8\8.3.7.1845\bin\1cv8.exe" ENTERPRISE /F"%WORKSPACE%\testib" 
+/DisableStartupMessages 
 /Execute "%WORKSPACE%\xddTestRunner.epf" /N "Admin" /P1 
 /C "xddRun ЗагрузчикКаталога ""%WORKSPACE%\Tests"";
 xddReport ГенераторОтчетаJUnitXML ""%WORKSPACE%\report_ordinary.xml"";xddShutdown;"
