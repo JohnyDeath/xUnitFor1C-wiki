@@ -11,6 +11,8 @@ xddReport ГенераторОтчетаJUnitXML ""%teamcity.build.checkoutDir%\
 xddShutdown;"
 ```
 
+Готовый файл шаблона для TeamCity [XUnitFor1C_v4_TeamCity](https://github.com/xDrivenDevelopment/xUnitFor1C/releases/download/4.0.0.4/XUnitFor1C_v4_TeamCity.zip)
+
 Для запуска из jenkins можно использовать такую команду 
 ```
 chcp 1251
